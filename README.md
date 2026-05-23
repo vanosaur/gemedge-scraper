@@ -4,7 +4,7 @@ An industry-grade, modular, and resilient data extraction pipeline built with **
 
 ---
 
-## 🏗️ Architecture & Features
+## Architecture & Features
 
 This project utilizes a highly modular structure to extract, clean, analyze, and format procurement data from the live GeM portal:
 
@@ -32,7 +32,7 @@ gemedge_assignment/
 
 ---
 
-## 🛠️ Setup & Execution
+## Setup & Execution
 
 ### Prerequisites
 - Node.js (v16+)
@@ -58,7 +58,7 @@ The scraper will initialize Chromium, apply the status and outcome filters, pagi
 
 ---
 
-## 📊 Outputs & Insights
+## Outputs & Insights
 
 Upon completion, three main files are generated under `outputs/`:
 1. `bids_data.json`: Hierarchical structured JSON data.
@@ -70,7 +70,7 @@ Upon completion, three main files are generated under `outputs/`:
 
 ---
 
-## 🔍 Selector Inspection & Best Practices
+## Selector Inspection & Best Practices
 
 Scraping dynamic enterprise and government portals requires a specialized set of techniques:
 
@@ -87,7 +87,7 @@ Scraping dynamic enterprise and government portals requires a specialized set of
 
 ---
 
-## 🛡️ Error Handling & Resiliency
+## Error Handling & Resiliency
 
 Procurement portals can experience transient network failures. Our system is built with resilience in mind:
 - **Exponential Backoff**: If a page navigation fails, it waits for `2^attempt * 1000ms` before retry, giving the portal server breathing room during load spikes.
