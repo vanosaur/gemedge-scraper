@@ -1,0 +1,102 @@
+{
+  "total_bids_analyzed": 35,
+  "high_participation": {
+    "bids_with_gt_2_participants": 26,
+    "percentage": 74.29
+  },
+  "l1_l2_price_gap": {
+    "bids_with_l1_l2_comparison": 26,
+    "average_absolute_gap": 38064.37,
+    "average_percentage_gap": 8.06
+  },
+  "repeat_winners": [
+    {
+      "vendor_name": "M/S SHREE ENTERPRISES",
+      "win_count": 3
+    },
+    {
+      "vendor_name": "BALAJI ENTERPRISES",
+      "win_count": 3
+    },
+    {
+      "vendor_name": "R T ENTERPRISES",
+      "win_count": 2
+    },
+    {
+      "vendor_name": "ASHOKA ENGINEERING WORKS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "SHRI HARI INFOTECH",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "VANI SYSTEMS PRIVATE LIMITED",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "SAMRIDDHI ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "SHAMMI MITTAL",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "DISTRICT SPORTS CENTER",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "JAY ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "EXTREME I T SOLUTIONS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "OM TRADERS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "MAHESHWARI TRADERS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "SHIKHAR ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "KANCHAN TRADERS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "EWS GREENTECH PRIVATE LIMITED",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "DILIP AUTO AGENCY",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "U T TRADERS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "MAHADEV ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "MAA BHAGWATI TRADERS",
+      "win_count": 1
+    }
+  ]
+}
