@@ -1,10 +1,10 @@
-# 🏛️ GeM BidPlus Procurement Scraper & Analytics System
+# GeM BidPlus Procurement Scraper & Analytics System
 
 An industry-grade, modular, and resilient data extraction pipeline built with **Node.js** and **Playwright** for scraping, cleaning, and analyzing procurement bid results from the Government e-Marketplace (GeM) BidPlus portal.
 
 ---
 
-## 🏗️ Architecture & Features
+## Architecture & Features
 
 This system utilizes a highly modular structure to extract, normalize, analyze, and format procurement data from the live GeM portal:
 
@@ -35,7 +35,7 @@ gemedge_assignment/
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The project's end-to-end operational pipeline is structured as follows:
 
@@ -64,7 +64,7 @@ graph TD
 
 ---
 
-## 🛠️ Setup & Execution
+## Setup & Execution
 
 ### Prerequisites
 * **Node.js** (v16 or higher)
@@ -99,7 +99,7 @@ The script will launch a headless Chromium instance, navigate to the portal, app
 
 ---
 
-## 📊 Outputs & Insights
+## Outputs & Insights
 
 Upon completion, three main files are generated under `outputs/`:
 
@@ -143,7 +143,7 @@ An analytics report summarizing procurement metrics:
 
 ---
 
-## 🔍 Selector Inspection & Best Practices
+## Selector Inspection & Best Practices
 
 Scraping dynamic enterprise and government portals requires a specialized set of techniques:
 
@@ -160,7 +160,7 @@ Scraping dynamic enterprise and government portals requires a specialized set of
 
 ---
 
-## 🛡️ Error Handling & Resiliency
+## Error Handling & Resiliency
 
 Procurement portals can experience transient network failures. This system is built with resilience in mind:
 * **Exponential Backoff**: If a page navigation fails, it waits for `2000 * attempt` milliseconds before retrying, giving the portal server breathing room during load spikes.
@@ -169,7 +169,7 @@ Procurement portals can experience transient network failures. This system is bu
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * **IP & Proxy Rotation**: Integrate proxy rotation (e.g., residential proxies) to support large-scale scraping without IP blocking or CAPTCHA triggers.
 * **State Checkpointing**: Persist progress locally so that if a scrape is interrupted, it can resume from the last successful bid instead of restarting.
