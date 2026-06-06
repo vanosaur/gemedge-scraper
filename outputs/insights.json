@@ -1,101 +1,105 @@
 {
-  "total_bids_analyzed": 35,
+  "total_bids_analyzed": 31,
   "high_participation": {
-    "bids_with_gt_2_participants": 26,
-    "percentage": 74.29
+    "bids_with_gt_2_participants": 23,
+    "percentage": 74.19
   },
   "l1_l2_price_gap": {
-    "bids_with_l1_l2_comparison": 26,
-    "average_absolute_gap": 38064.37,
-    "average_percentage_gap": 8.06
+    "bids_with_l1_l2_comparison": 23,
+    "average_absolute_gap": 9742.98,
+    "average_percentage_gap": 8.05
   },
   "repeat_winners": [
     {
-      "vendor_name": "M/S SHREE ENTERPRISES",
-      "win_count": 3
-    },
-    {
-      "vendor_name": "BALAJI ENTERPRISES",
-      "win_count": 3
-    },
-    {
-      "vendor_name": "R T ENTERPRISES",
-      "win_count": 2
-    },
-    {
-      "vendor_name": "ASHOKA ENGINEERING WORKS",
+      "vendor_name": "ARMY TRADERS",
       "win_count": 1
     },
     {
-      "vendor_name": "SHRI HARI INFOTECH",
+      "vendor_name": "MONI ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "VANI SYSTEMS PRIVATE LIMITED",
+      "vendor_name": "RIKI SECURITY SOLUTIONS PRIVATE LIMITED",
       "win_count": 1
     },
     {
-      "vendor_name": "SAMRIDDHI ENTERPRISES",
+      "vendor_name": "M/S M. K. ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "SHAMMI MITTAL",
+      "vendor_name": "SHREE GANESH ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
+      "vendor_name": "ANWAR MODELS",
       "win_count": 1
     },
     {
-      "vendor_name": "DISTRICT SPORTS CENTER",
+      "vendor_name": "PRACHI ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "JAY ENTERPRISES",
+      "vendor_name": "JAI BAJRANG BALI AUTOMOBILES",
       "win_count": 1
     },
     {
-      "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
+      "vendor_name": "M/S OM TRADERS",
       "win_count": 1
     },
     {
-      "vendor_name": "EXTREME I T SOLUTIONS",
+      "vendor_name": "APPLIED INFOTECH TECHNOLOGY",
       "win_count": 1
     },
     {
-      "vendor_name": "OM TRADERS",
+      "vendor_name": "SEHYOG MOTORS",
       "win_count": 1
     },
     {
-      "vendor_name": "MAHESHWARI TRADERS",
+      "vendor_name": "M/S SHEETAL ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "SHIKHAR ENTERPRISES",
+      "vendor_name": "PARTH ENTERPRISES",
       "win_count": 1
     },
     {
-      "vendor_name": "KANCHAN TRADERS",
+      "vendor_name": "UNIVERSAL TRADERS",
       "win_count": 1
     },
     {
-      "vendor_name": "EWS GREENTECH PRIVATE LIMITED",
+      "vendor_name": "M/S BHIRGUJEE TRADERS",
       "win_count": 1
     },
     {
-      "vendor_name": "DILIP AUTO AGENCY",
+      "vendor_name": "B K DEVELOPERS",
       "win_count": 1
     },
     {
-      "vendor_name": "U T TRADERS",
+      "vendor_name": "PITAMBRA TRADERS",
       "win_count": 1
     },
     {
-      "vendor_name": "MAHADEV ENTERPRISES",
+      "vendor_name": "ATTITA NX",
       "win_count": 1
     },
     {
-      "vendor_name": "MAA BHAGWATI TRADERS",
+      "vendor_name": "TECH GANAPATI",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "ASHA ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "NARESH TRADERS",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "M/S ZAIN ENTERPRISES",
+      "win_count": 1
+    },
+    {
+      "vendor_name": "SHIVA TRADERS",
       "win_count": 1
     }
   ]

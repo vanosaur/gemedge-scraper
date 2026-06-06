@@ -37,6 +37,13 @@ function buildResultUrl(href) {
         : `https://bidplus.gem.gov.in${href}`;
 }
 
+function cleanQuantity(str) {
+    if (!str) return "0";
+    const cleaned = str.replace(/,/g, "");
+    const match = cleaned.match(/\d+/);
+    return match ? match[0] : "0";
+}
+
 
 /* ---------------------------------------------------
    LISTING PAGE EXTRACTOR
@@ -68,27 +75,20 @@ async function extractListingData(page) {
                 const itemText = (await itemRow.first().innerText()).replace(/Items\s*:/i, "").trim();
                 const parts = itemText.split(/Quantity\s*[:\-]?\s*/i);
                 category = parts[0].trim();
+                
                 if (parts.length > 1) {
-                    function cleanQuantity(str) {
-    if (!str) return "0";
-    const cleaned = str.replace(/,/g, "");
-    const match = cleaned.match(/\d+/);
-    return match ? match[0] : "0";
-}
-
-// Updated quantity extraction logic
-if (parts.length > 1) {
-    const qtyMatch = parts[1].trim().match(/[\d,.]+/);
-    if (qtyMatch) {
-        quantity = cleanQuantity(qtyMatch[0]);
-    }
-}
-// Fallback: if quantity still not a clean number, try the dedicated Quantity row
-if (!quantity || isNaN(parseInt(quantity, 10))) {
-    const qtyRaw = await getRowValue(card, "Quantity");
-    const rawMatch = qtyRaw.match(/[\d,.]+/);
-    if (rawMatch) quantity = cleanQuantity(rawMatch[0]);
-}
+                    const qtyMatch = parts[1].trim().match(/[\d,.]+/);
+                    if (qtyMatch) {
+                        quantity = cleanQuantity(qtyMatch[0]);
+                    }
+                }
+                
+                // Fallback: if quantity still not a clean number, try the dedicated Quantity row
+                if (!quantity || quantity === "0" || isNaN(parseInt(quantity, 10))) {
+                    const qtyRaw = await getRowValue(card, "Quantity");
+                    const rawMatch = qtyRaw.match(/[\d,.]+/);
+                    if (rawMatch) quantity = cleanQuantity(rawMatch[0]);
+                }
             }
 
             // Buyer Department

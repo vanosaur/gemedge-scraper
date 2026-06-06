@@ -1,107 +1,81 @@
 [
   {
-    "bid_id": "GEM/2026/B/7535122",
-    "category": "LAY SHAFT ASSY (TATRA T-815)",
+    "bid_id": "GEM/2026/B/7591478",
+    "category": "PRESSURE MAGNET,CARBON BRUSH,E...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 1,
-    "bid_value": 0,
-    "award_date": "23-05-2026 2:00 PM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
+    "quantity": 31,
+    "bid_value": 115834.7,
+    "award_date": "06-06-2026 1:00 PM",
+    "winner_name": "ARMY TRADERS",
+    "winner_price": 115834.7,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "AFSANA TRADERS",
+        "vendor_price": 144106,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "ARMY TRADERS",
+        "vendor_price": 115834.7,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "BHAGANA TRADERS",
+        "vendor_price": 127512,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7533654",
-    "category": "fuel filter,assy cable comp,fi...",
+    "bid_id": "GEM/2026/B/7591658",
+    "category": "Work bench with cupboard for R...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 21,
-    "bid_value": 0,
-    "award_date": "23-05-2026 2:00 PM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
+    "quantity": 8,
+    "bid_value": 149990,
+    "award_date": "06-06-2026 1:00 PM",
+    "winner_name": "MONI ENTERPRISES",
+    "winner_price": 149990,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "MONI ENTERPRISES",
+        "vendor_price": 149990,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "CHAWLA MACHINERY STORE",
+        "vendor_price": 155200,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "UNIVERSAL TRADERS",
+        "vendor_price": 162000,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7534743",
-    "category": "3120 004922,48870m70a22,2530 0...",
+    "bid_id": "GEM/2026/B/7591378",
+    "category": "KNUCKLE BRG,WATER PUMP ASSY,GE...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 25,
-    "bid_value": 86063.3,
-    "award_date": "23-05-2026 2:00 PM",
-    "winner_name": "ASHOKA ENGINEERING WORKS",
-    "winner_price": 86063.3,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "ASHOKA ENGINEERING WORKS",
-        "vendor_price": 86063.3,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BLUE THROAT LIMITED",
-        "vendor_price": 99300,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAJ MOTOR STORE",
-        "vendor_price": 89281.15,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527668",
-    "category": "High mast pole for national fl...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 994800,
-    "award_date": "23-05-2026 1:00 PM",
-    "winner_name": "M/S SHREE ENTERPRISES",
-    "winner_price": 994800,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "M/S SHREE ENTERPRISES",
-        "vendor_price": 994800,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OMG ENGINEERING",
-        "vendor_price": 994900,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TRIPATI ENTERPRISES",
-        "vendor_price": 995000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527629",
-    "category": "High Mast Lighting Octagonal T...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
+    "quantity": 24,
     "bid_value": 0,
-    "award_date": "23-05-2026 1:00 PM",
+    "award_date": "06-06-2026 1:00 PM",
     "winner_name": "N/A",
     "winner_price": 0,
     "num_bidders": 0,
@@ -109,1613 +83,12 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7534105",
-    "category": "Handling and Transport on Lump...",
-    "buyer": "Energy Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 9676,
-    "award_date": "23-05-2026 1:00 PM",
-    "winner_name": "SHRI HARI INFOTECH",
-    "winner_price": 9676,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "SHRI HARI INFOTECH",
-        "vendor_price": 9676,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S CHINTAHARAN ENTERPRISES",
-        "vendor_price": 9912,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "CHINTAHARAN RETAILER LIMITED",
-        "vendor_price": 10000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7562361",
-    "category": "Catering Service per Packet ba...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 606,
-    "bid_value": 121200,
-    "award_date": "23-05-2026 12:00 PM",
-    "winner_name": "VANI SYSTEMS PRIVATE LIMITED",
-    "winner_price": 121200,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "VANI SYSTEMS PRIVATE LIMITED",
-        "vendor_price": 121200,
-        "rank": "L1",
-        "status_flag": "Disqualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "HAK JAN KALYAN SEVA SAMITI",
-        "vendor_price": 133320,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": 133926,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7524189",
-    "category": "CLUTCH PLATE,BRAKE CYLINDER,BE...",
-    "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 13,
-    "bid_value": 112868.18,
-    "award_date": "23-05-2026 12:00 PM",
-    "winner_name": "SAMRIDDHI ENTERPRISES",
-    "winner_price": 112868.18,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "KAVYA TRADERS",
-        "vendor_price": 114450,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NAINA ENTERPRISES",
-        "vendor_price": 113250,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SAMRIDDHI ENTERPRISES",
-        "vendor_price": 112868.18,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7534511",
-    "category": "Manpower Outsourcing Services ...",
-    "buyer": "Ministry of Finance Department of Revenue",
-    "quantity": 1,
-    "bid_value": 277267.82,
-    "award_date": "23-05-2026 12:00 PM",
-    "winner_name": "SHAMMI MITTAL",
-    "winner_price": 277267.82,
-    "num_bidders": 186,
-    "vendors": [
-      {
-        "vendor_name": "A S S SECURITY GROUP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ABSF MANAGEMENT INDIA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ADITHI GLOBAL CARE PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "AEROTEK SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ALBERTO TECHNOLOGIES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ALLIANCE OUTSOURCING PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "AMPUG SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ANANYA SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ANJANIPUTAR MANPOWER SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ARIHANT OUTSOURCING SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ARYAN BIZZ PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ASHFORD STAFFING (OPC) PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ASIAN HAWKS MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ATIREKA SHRAMIKA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "AWADH SECURITY SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "AXIS SALES CORP.",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "B D MOBEL PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "B.P. CONSTRUCTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BD SECURITY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BEENA SECURITY SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BEST INDIA SOLUTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BHAGWATI MANPOWER SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BHANU UDAY SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BHARAT KRISHI PASHUPALAN KENDRA",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BRIGHT ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "CAPTAIN SUNLIGHT SECURITY AGENCY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "CHANDRA HOSPITALITY SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "CITY HAWKS MANPOWER SERVICES AND CONSULTANCY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "COMPASS VISION SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "COMPASVISION INFOTECH (OPC) PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "COUNTRYWIDE TECHNOLOGIES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "DRIVYA SECURITY AND INTEGRATED SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "DRONE SECURITY AGENCY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ECO ANN ORGANIC PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EJEE COMPLETE OFFICE SOLUTIONS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EMPVIN CONSULTANCY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EVOLUTION STAFFING LLP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EVORV PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "G.K.ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GEONOVATECH INFRA AND SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GILL ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GLOBAL INFRA SOLUTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GOLDEN TRIANGLE SECURITY SERVICE PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GROWING MANPOWER SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GUNJAN GLOBAL INFRAVENTURE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GUPTA ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "GURU NANAK SECURITY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "HELIS CONSULTING PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "HELIS TECHNOLOGIES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "INSF INDIA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "INTELLISMART ENERGY SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "IRON WOLF SECURITY LLP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ISHITA SECURITY AND MANPOWER SERVICE PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J B SECURITY SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J B TRADING CO",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J K ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J N ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J SHARP PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "J.S ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JAGADVYAPI FACILITIES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JAI BHOLENATH SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JAI DURGA SHAKTI SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JAI JAWALAJI SECURITY AND MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JAIN CORPORATION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JIVANSH HANS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JKM TOTAL SECURITY (OPC) PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "JSR ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "K P N SAI INFRA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KANISHK ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KARMBHUMI ENGINEERING & FACILITY MANAGEMENT PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KAYRA MANPOWER SUPPLIER",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KESHWISE NEXUS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KGM ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KINSHIP SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KR ASSOCIATES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KULDEEP COMMUNICATION & ELECTRONICS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "LAADU SHYAM KISHORI SECURITIES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "LAKSHYARAJ ASSOCIATES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "LEAD SALES AND SUPPLY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M.M. EAGLES SECURITY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M.S. ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S AADITYA ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S AWADH GROUP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S BANKE BIHARI SERVICES AND MANPOWER SUPPLYAR",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S BHAGWATI SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S DOLE ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S NIRBHIK INDIA SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MADWA ASSOCIATES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MAHI IT GLOBAL INDIA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MARG ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MAXWELL MULTISERVICES & CONSTRUCTIONS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NATIONAL SERVICES AND MANPOWER SUPPLY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NEGIE INFOTECH",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NEW TIGER SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NISHIDA AGENCY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "NOKN INDIA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OJN FACILITIES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OM SHREE PAWANPUTRA SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OMILA MAHABALA ANANTA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ONE SOLUTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PARI MANPOWER ENTERPRISES (OPC) PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PARV TRADERS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PHR ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PIHU MANPOWER SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PINK RIDER PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PLANET SECURITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PLAYMATE OUTSOURCING SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PM SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PMS INT BHATTHA",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PR ASSOCIATE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PRAKASHTAM SECURITY & FACILITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PREEKSHIT MANPOWER PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PRITHVI MANPOWER SOLUTIONS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PROHIRE ELITE ENTERPRISES LLP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "PUNJAB SERVICE AGENCY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "R J PRIME SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "R K ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "R M ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "R.V.ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAJENDRA TIWARI CONTRACTOR",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAJNAR EMPOWERMENT SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAPID SERVICES AGENCY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAVI ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAVLEEN SECURITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RAWAT G AND R ASSOCIATES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RIDHISIDHI TEAM SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RM ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ROHHIT ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ROMAN SEVEN SECURITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ROYAL DIGITAL SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RPY MANPOWER SOLUTION PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RRPERFECT SECURITY SERVICES INDIA PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "RS ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SADHNA SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SAI A1 SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SAI PTP SOLUTIONS LLP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SAMRAT SECURITY SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SAMRIDHI GREEN FORCE PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SARSP TECH SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SEBUSHI SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SECURITY AND INTELLIGENCE SERVICES BUREAU",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHAMMI MITTAL",
-        "vendor_price": 277267.82,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHANKARMEERA SR SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHERWOOD SECURITY & MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHIVARCHITA MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHIVDULARI ENTERPRISES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHREE BHOMIYAJI TROOPS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHREE SHYAM ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHRI KRISHNA CONSTRUCTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHRI OM MAN POWER SERVICE PROVIDER",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHUBHAM ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SIDHESHWAR SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SK ENTERPRISES SOLUTIONS LLP",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SNEPRA SECURE SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SPSMS GLOBAL PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SRA INFO SOLUTIONS",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SRV ENTERPRISE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SSS SECURITY FORCE (OPC) PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SUNSPIRE-SKY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SUPERMAN SECURITY SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SVIAN SECURITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TALENT EXCEL PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TEJASHIV MANPOWER SERVICE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TMS SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TOTAL OFFICE SOLUTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TROMSO SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TS MANPOWER SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "UJJWAL COMMON SERVICE CENTER",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "UPANYA DEVELOPERS AND MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "V K ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VAISHNAVI ENTERPRISES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VAJRA SECURITY SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VAMIKA CORPORATE SERVICES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VANSH MANPOWER SOLUTIONS PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VCS EDUCATION HEALTHCARE & OUTSOURCING",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VEERVAYU ASSOCIATES",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VERTEX WORKFORCE PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VG MANPOWER SERVICES PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "VILOHITA SKYBUILT PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "WEBORNET PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "WHITELION EXIM SECURITY PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "WORLD SPACE",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "XUMIFY",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "YASH R SOLUTION",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ZEALOUS SECURATOR PRIVATE LIMITED",
-        "vendor_price": "N/A",
-        "rank": "N/A",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7562361",
-    "category": "Catering Service per Packet ba...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 606,
-    "bid_value": 0,
-    "award_date": "23-05-2026 12:00 PM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7533337",
-    "category": "Tanker on Agricultural Trailer",
-    "buyer": "Urban Development Department Uttar Pradesh",
-    "quantity": 3,
-    "bid_value": 0,
-    "award_date": "23-05-2026 11:00 AM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7561581",
-    "category": "Repair and Overhauling Service...",
-    "buyer": "Ministry of Home Affairs Central Armed Police Forces",
-    "quantity": 1,
-    "bid_value": 1800,
-    "award_date": "23-05-2026 11:00 AM",
-    "winner_name": "M/S MOHAMMAD AFZAL MAGRAY",
-    "winner_price": 1800,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "FAYAZ AHMAD MALIK GENERAL ORDER SUPPLIER",
-        "vendor_price": 2800,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
-        "vendor_price": 1800,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "WASEEM AHMAD MALIK",
-        "vendor_price": 3300,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532984",
-    "category": "Facility Management Services -...",
-    "buyer": "Panchayati Raj Department UttraKhand",
-    "quantity": 1,
-    "bid_value": 1499995,
-    "award_date": "23-05-2026 10:00 AM",
-    "winner_name": "DISTRICT SPORTS CENTER",
-    "winner_price": 1499995,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "DISTRICT SPORTS CENTER",
-        "vendor_price": 1499995,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S HARI OM ENTERPRISES GARUR",
-        "vendor_price": 1622000,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHRI HARI TRADERS",
-        "vendor_price": 1730000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532890",
-    "category": "Facility Management Services -...",
-    "buyer": "Panchayati Raj Department UttraKhand",
-    "quantity": 1,
-    "bid_value": 2497600,
-    "award_date": "23-05-2026 10:00 AM",
-    "winner_name": "JAY ENTERPRISES",
-    "winner_price": 2497600,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "JAY ENTERPRISES",
-        "vendor_price": 2497600,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M. K. ENTERPRISES",
-        "vendor_price": 2565000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MAA VAISHNO ENTERPRISES",
-        "vendor_price": 2542200,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7513284",
-    "category": "ST Poles 16 Mtr long 410 SP80,...",
-    "buyer": "Power Development Department Jammu and Kashmir",
-    "quantity": 3745,
-    "bid_value": 3323320,
-    "award_date": "23-05-2026 9:00 AM",
-    "winner_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
-    "winner_price": 3323320,
-    "num_bidders": 5,
-    "vendors": [
-      {
-        "vendor_name": "KONARK ENGINEERS & TRADERS",
-        "vendor_price": 4071000,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KULBUSHAN KUMAR",
-        "vendor_price": 4169280,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
-        "vendor_price": 3323320,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MADHAV ENTERPRISES",
-        "vendor_price": 4231000,
-        "rank": "L4",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SUPER POWER ENTERPRISES",
-        "vendor_price": 2339500,
-        "rank": "DISQUALIFIED",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": true
-  },
-  {
-    "bid_id": "GEM/2026/B/7520384",
-    "category": "PVC Floor Mat Roll,Chiller,Swi...",
+    "bid_id": "GEM/2026/B/7590843",
+    "category": "Fuel Pump Kit,Spark Plug,K-ASM...",
     "buyer": "Ministry of Defence Department of Military Affairs",
     "quantity": 7,
     "bid_value": 0,
-    "award_date": "23-05-2026 9:00 AM",
+    "award_date": "06-06-2026 12:00 PM",
     "winner_name": "N/A",
     "winner_price": 0,
     "num_bidders": 0,
@@ -1723,381 +96,33 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7518797",
-    "category": "Facility Management Services -...",
-    "buyer": "Health and Family Welfare Department Kerala",
-    "quantity": 1,
-    "bid_value": 153500,
-    "award_date": "23-05-2026 9:00 AM",
-    "winner_name": "EXTREME I T SOLUTIONS",
-    "winner_price": 153500,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "ELITE TECHNOLOGIES",
-        "vendor_price": 160000,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EXTREME I T SOLUTIONS",
-        "vendor_price": 153500,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SMART TECHNOLOGIES",
-        "vendor_price": 170500,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532604",
-    "category": "Table (Handicraft) (V2)",
-    "buyer": "Department of Panchayati Raj",
-    "quantity": 1,
-    "bid_value": 0,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532603",
-    "category": "Procurement of Refrigerator 18...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 1,
-    "bid_value": 21500,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "OM TRADERS",
-    "winner_price": 21500,
-    "num_bidders": 4,
-    "vendors": [
-      {
-        "vendor_name": "OM TRADERS",
-        "vendor_price": 21500,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "ARMY CEREMONIAL STORE",
-        "vendor_price": 23500,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SONALI ENTERPRISE",
-        "vendor_price": 24999,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "MARK ENTERPRISES",
-        "vendor_price": 149900,
-        "rank": "L4",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532581",
-    "category": "RO Plant with Genset and Troll...",
-    "buyer": "Department of Panchayati Raj",
-    "quantity": 1,
-    "bid_value": 325000,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "MAHESHWARI TRADERS",
-    "winner_price": 325000,
-    "num_bidders": 4,
-    "vendors": [
-      {
-        "vendor_name": "MAHESHWARI TRADERS",
-        "vendor_price": 325000,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": 330000,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "AAKSHRA ENTERPRISES",
-        "vendor_price": 339000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "EXCELLENT SERVICES",
-        "vendor_price": 360000,
-        "rank": "L4",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527679",
-    "category": "Facility Management Services -...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 959800,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "SHIKHAR ENTERPRISES",
-    "winner_price": 959800,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "OMG ENGINEERING",
-        "vendor_price": 959900,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHIKHAR ENTERPRISES",
-        "vendor_price": 959800,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TRIPATI ENTERPRISES",
-        "vendor_price": 960000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527596",
-    "category": "High Mast Lighting Octagonal T...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 0,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "N/A",
-    "winner_price": 0,
-    "num_bidders": 0,
-    "vendors": [],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527592",
-    "category": "High Mast Lighting Octagonal T...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 549800,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "M/S SHREE ENTERPRISES",
-    "winner_price": 549800,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "M/S SHREE ENTERPRISES",
-        "vendor_price": 549800,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OMG ENGINEERING",
-        "vendor_price": 549900,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TRIPATI ENTERPRISES",
-        "vendor_price": 550000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7527569",
-    "category": "High Mast Lighting Octagonal T...",
-    "buyer": "Rural Development Department Uttar Pradesh",
-    "quantity": 1,
-    "bid_value": 549800,
-    "award_date": "22-05-2026 9:00 PM",
-    "winner_name": "M/S SHREE ENTERPRISES",
-    "winner_price": 549800,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "M/S SHREE ENTERPRISES",
-        "vendor_price": 549800,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "OMG ENGINEERING",
-        "vendor_price": 549900,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "TRIPATI ENTERPRISES",
-        "vendor_price": 550000,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532438",
-    "category": "Fuel Filter Main,2nd Leaf,Repa...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 16,
-    "bid_value": 27690,
-    "award_date": "22-05-2026 8:00 PM",
-    "winner_name": "BALAJI ENTERPRISES",
-    "winner_price": 27690,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "AGGARWAL SUPPLIERS",
-        "vendor_price": 33586,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": 27690,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "INDIAN TRADERS",
-        "vendor_price": 46194,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532412",
-    "category": "Tie Rod End Steering,Shock abs...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 19,
-    "bid_value": 80900,
-    "award_date": "22-05-2026 8:00 PM",
-    "winner_name": "BALAJI ENTERPRISES",
-    "winner_price": 80900,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "AGGARWAL SUPPLIERS",
-        "vendor_price": 91008,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": 80900,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "INDIAN TRADERS",
-        "vendor_price": 137348,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7522684",
-    "category": "hydraulic pressure hose,fuel f...",
+    "bid_id": "GEM/2026/B/7591312",
+    "category": "Boot Twin TB RND,K Seal Repair...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 8,
-    "bid_value": 38167,
-    "award_date": "22-05-2026 8:00 PM",
-    "winner_name": "KANCHAN TRADERS",
-    "winner_price": 38167,
-    "num_bidders": 2,
-    "vendors": [
-      {
-        "vendor_name": "BALAJI TRADERS",
-        "vendor_price": 41735,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "KANCHAN TRADERS",
-        "vendor_price": 38167,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7514359",
-    "category": "Helical Gear Box (V2)",
-    "buyer": "Urban Development Department Uttar Pradesh",
-    "quantity": 3,
-    "bid_value": 538959,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "EWS GREENTECH PRIVATE LIMITED",
-    "winner_price": 538959,
+    "quantity": 13,
+    "bid_value": 96937,
+    "award_date": "06-06-2026 12:00 PM",
+    "winner_name": "RIKI SECURITY SOLUTIONS PRIVATE LIMITED",
+    "winner_price": 96937,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "EWS GREENTECH PRIVATE LIMITED",
-        "vendor_price": 538959,
+        "vendor_name": "RIKI SECURITY SOLUTIONS PRIVATE LIMITED",
+        "vendor_price": 96937,
         "rank": "L1",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "M/S KUMAR ENGINEERING",
-        "vendor_price": 542259,
+        "vendor_name": "ORS MOTORS LLP",
+        "vendor_price": 104153,
         "rank": "L2",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "SUPER AGRO UDYOG",
-        "vendor_price": 545259,
+        "vendor_name": "TECHNO AUTOMOBILES PRIVATE LIMITED",
+        "vendor_price": 114080,
         "rank": "L3",
         "status_flag": "Qualified",
         "remarks": "N/A"
@@ -2106,69 +131,34 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7532377",
-    "category": "Oil Seal,Oil Seal Rear,Oil Sea...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 66,
-    "bid_value": 52440,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "BALAJI ENTERPRISES",
-    "winner_price": 52440,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "AGGARWAL SUPPLIERS",
-        "vendor_price": 63435,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "BALAJI ENTERPRISES",
-        "vendor_price": 52440,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "INDIAN TRADERS",
-        "vendor_price": 85247,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532359",
-    "category": "Air Filter for Scorpio,AC Filt...",
+    "bid_id": "GEM/2026/B/7591349",
+    "category": "CLUTCH COVER MZF,CLUTCH PLATE ...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 11,
-    "bid_value": 6272,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "DILIP AUTO AGENCY",
-    "winner_price": 6272,
+    "quantity": 58,
+    "bid_value": 123792,
+    "award_date": "06-06-2026 12:00 PM",
+    "winner_name": "M/S M. K. ENTERPRISES",
+    "winner_price": 123792,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "DILIP AUTO AGENCY",
-        "vendor_price": 6272,
+        "vendor_name": "M/S KARTIK SALES CORPORATION",
+        "vendor_price": 150270,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S M. K. ENTERPRISES",
+        "vendor_price": 123792,
         "rank": "L1",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "RUDRA AUTO SERVICES",
-        "vendor_price": 7180,
+        "vendor_name": "PITAMBRA TRADERS",
+        "vendor_price": 176038,
         "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "SHAH AUTOMOBILES",
-        "vendor_price": 6870,
-        "rank": "L2",
         "status_flag": "Qualified",
         "remarks": "N/A"
       }
@@ -2176,69 +166,415 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7532313",
-    "category": "Front Brake Pad,Rear Brake Pad...",
-    "buyer": "Ministry of Defence Department of Defence",
-    "quantity": 18,
-    "bid_value": 83537,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "U T TRADERS",
-    "winner_price": 83537,
-    "num_bidders": 3,
-    "vendors": [
-      {
-        "vendor_name": "ARUN SHARMA GOVT CONTRACTOR",
-        "vendor_price": 83748,
-        "rank": "L3",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "S.S. ENTERPRISES",
-        "vendor_price": 83615,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "U T TRADERS",
-        "vendor_price": 83537,
-        "rank": "L1",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      }
-    ],
-    "anomaly_winner_not_lowest": false
-  },
-  {
-    "bid_id": "GEM/2026/B/7532282",
-    "category": "oil drain plug soket set and s...",
+    "bid_id": "GEM/2026/B/7590558",
+    "category": "LOGIC CARD,PRESSURE ROLLER,TEF...",
     "buyer": "Ministry of Defence Department of Military Affairs",
     "quantity": 9,
-    "bid_value": 79250,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "MAHADEV ENTERPRISES",
-    "winner_price": 79250,
+    "bid_value": 16300,
+    "award_date": "06-06-2026 11:00 AM",
+    "winner_name": "SHREE GANESH ENTERPRISES",
+    "winner_price": 16300,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "LAKSHITA SALES AND SERVICES PRIVATE LIMITED",
-        "vendor_price": 82600,
+        "vendor_name": "MAHA LUXMI TRADERS",
+        "vendor_price": 22900,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "RK ENTERPRISES",
+        "vendor_price": 19200,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SHREE GANESH ENTERPRISES",
+        "vendor_price": 16300,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7576829",
+    "category": "20cc Aeromodel Propeller,20cc ...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 33,
+    "bid_value": 88505,
+    "award_date": "06-06-2026 11:00 AM",
+    "winner_name": "ANWAR MODELS",
+    "winner_price": 88505,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "ANWAR MODELS",
+        "vendor_price": 88505,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "MUSKAN ENTERPRISE",
+        "vendor_price": 91295,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "VIJAY ENTERPRISES",
+        "vendor_price": 93820,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7590724",
+    "category": "Desert Cooler",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 7,
+    "bid_value": 91000,
+    "award_date": "06-06-2026 11:00 AM",
+    "winner_name": "PRACHI ENTERPRISES",
+    "winner_price": 91000,
+    "num_bidders": 6,
+    "vendors": [
+      {
+        "vendor_name": "PRACHI ENTERPRISES",
+        "vendor_price": 91000,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "DEEN DAYAL TRADERS",
+        "vendor_price": 105000,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SURENDRA KUMAR AND COMPANY",
+        "vendor_price": 106400,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "AGRAWAL AGRICULTURE AND MACHINERY STORES",
+        "vendor_price": 153223,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "AGGARWAL SALES",
+        "vendor_price": 196000,
+        "rank": "L5",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "CREATIVE COLLEAGUES",
+        "vendor_price": 350000,
+        "rank": "L6",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7590459",
+    "category": "desert cooler",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 15,
+    "bid_value": 0,
+    "award_date": "06-06-2026 11:00 AM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7579447",
+    "category": "COVER ASSY,DRIVEN DISC FOR CLU...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 10,
+    "bid_value": 0,
+    "award_date": "06-06-2026 11:00 AM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7590297",
+    "category": "RE SHOCK ABSORBER,RE BRAKE SHO...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 17,
+    "bid_value": 47285,
+    "award_date": "06-06-2026 10:00 AM",
+    "winner_name": "JAI BAJRANG BALI AUTOMOBILES",
+    "winner_price": 47285,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "JAI BAJRANG BALI AUTOMOBILES",
+        "vendor_price": 47285,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "PANKAJ ASSOCIATES",
+        "vendor_price": 57685,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "VINAYAK AUTOMOBILES",
+        "vendor_price": 58317,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7618893",
+    "category": "Cloves (????)",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 176,
+    "bid_value": 0,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7610406",
+    "category": "Repair and Overhauling Service...",
+    "buyer": "Ministry of Home Affairs Central Armed Police Forces",
+    "quantity": 1,
+    "bid_value": 0,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7601161",
+    "category": "Repair and Overhauling Service...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 1,
+    "bid_value": 6165,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "M/S OM TRADERS",
+    "winner_price": 6165,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "M/S OM TRADERS",
+        "vendor_price": 6165,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "GALAXY ENTERPRISES",
+        "vendor_price": 6450,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "DELHI ENGINERING STORE",
+        "vendor_price": 7000,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7590069",
+    "category": "SMPS,CMOS bty,Teflon Sleeve,Pr...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 40,
+    "bid_value": 42900,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "APPLIED INFOTECH TECHNOLOGY",
+    "winner_price": 42900,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "APPLIED INFOTECH TECHNOLOGY",
+        "vendor_price": 42900,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "ATUL TRADERS",
+        "vendor_price": 50800,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "COMPUTER GALLERY",
+        "vendor_price": 47100,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "FAST TRACK COMPUTER",
+        "vendor_price": 52950,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7585484",
+    "category": "Oil 20 w 50,dafc50,grsg240,max...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 100,
+    "bid_value": 38000,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "SEHYOG MOTORS",
+    "winner_price": 38000,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "M/S MAHARAJ ENTERPRISES",
+        "vendor_price": 42900,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S VAIBHAV SALES CORPORATION AND UNIT V.S. CORPORATION INDIA PERFUMERY",
+        "vendor_price": 100000,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SARV SHAKTI SALES",
+        "vendor_price": 48500,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SEHYOG MOTORS",
+        "vendor_price": 38000,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7584569",
+    "category": "Cabin RAM assy,Generator Assy,...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 34,
+    "bid_value": 159427,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "M/S SHEETAL ENTERPRISES",
+    "winner_price": 159427,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "M/S CHANDI TRADERS",
+        "vendor_price": 170093,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S LUXMI SOLAR SOLUTIONS",
+        "vendor_price": 178292,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S SHEETAL ENTERPRISES",
+        "vendor_price": 159427,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7581839",
+    "category": "spider bearing,break booster f...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 41,
+    "bid_value": 161465.3,
+    "award_date": "06-06-2026 9:00 AM",
+    "winner_name": "PARTH ENTERPRISES",
+    "winner_price": 161465.3,
+    "num_bidders": 5,
+    "vendors": [
+      {
+        "vendor_name": "M/S ANISH VENTURES",
+        "vendor_price": 182357,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S CHANDI TRADERS",
+        "vendor_price": 163165,
         "rank": "L2",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
         "vendor_name": "MAHADEV ENTERPRISES",
-        "vendor_price": 79250,
+        "vendor_price": 175623,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "PARTH ENTERPRISES",
+        "vendor_price": 161465.3,
         "rank": "L1",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "MANISH TRADING COMPANY",
-        "vendor_price": 95000,
-        "rank": "L3",
+        "vendor_name": "SANGHU ENERGY SAVING SYSTEMS PRIVATE LIMITED",
+        "vendor_price": 525090,
+        "rank": "L5",
         "status_flag": "Qualified",
         "remarks": "N/A"
       }
@@ -2246,33 +582,75 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7532265",
-    "category": "ASSY COMBINATION SWITCH,WHEEL ...",
+    "bid_id": "GEM/2026/B/7589863",
+    "category": "T FLAG WITH STAND,REFRIGERATOR...",
     "buyer": "Ministry of Defence Department of Military Affairs",
-    "quantity": 24,
-    "bid_value": 59405,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "MAA BHAGWATI TRADERS",
-    "winner_price": 59405,
+    "quantity": 206,
+    "bid_value": 39800,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "UNIVERSAL TRADERS",
+    "winner_price": 39800,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "MAA BHAGWATI TRADERS",
-        "vendor_price": 59405,
-        "rank": "L1",
+        "vendor_name": "CHAWLA MACHINERY STORE",
+        "vendor_price": 41194,
+        "rank": "L3",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "BHAWANI ENTERPRISES AND GENERAL SUPPLIER",
-        "vendor_price": 65445,
+        "vendor_name": "MONI ENTERPRISES",
+        "vendor_price": 40396,
         "rank": "L2",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "S.K.S ENTERPRISES",
-        "vendor_price": 74590,
+        "vendor_name": "UNIVERSAL TRADERS",
+        "vendor_price": 39800,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7613908",
+    "category": "Panel Air Conditioner",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 6,
+    "bid_value": 261999,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "M/S BHIRGUJEE TRADERS",
+    "winner_price": 261999,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "M/S BHIRGUJEE TRADERS",
+        "vendor_price": 261999,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "RK ENTERPRISES",
+        "vendor_price": 312000,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "RUDRA TRADERS AND SUPPLIERS",
+        "vendor_price": 294000,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SHIV SHAKTI ENTERPRISES",
+        "vendor_price": 299994,
         "rank": "L3",
         "status_flag": "Qualified",
         "remarks": "N/A"
@@ -2281,33 +659,33 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7532100",
-    "category": "Repair, Maintenance, and Insta...",
-    "buyer": "Department of Panchayati Raj",
-    "quantity": 1,
-    "bid_value": 35000,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "R T ENTERPRISES",
-    "winner_price": 35000,
+    "bid_id": "GEM/2026/B/7576275",
+    "category": "Straw / Bhusa",
+    "buyer": "Urban Development Department Uttar Pradesh",
+    "quantity": 240,
+    "bid_value": 1902998.4,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "B K DEVELOPERS",
+    "winner_price": 1902998.4,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "D R ENTERPRISES",
-        "vendor_price": 35300,
-        "rank": "L2",
-        "status_flag": "Qualified",
-        "remarks": "N/A"
-      },
-      {
-        "vendor_name": "R T ENTERPRISES",
-        "vendor_price": 35000,
+        "vendor_name": "B K DEVELOPERS",
+        "vendor_price": 1902998.4,
         "rank": "L1",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "SHREE COMPUTER AND ENTERPRISES",
-        "vendor_price": 35500,
+        "vendor_name": "V.P CONSTRUCTION",
+        "vendor_price": 1906320,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "VIJAY PAL SINGH",
+        "vendor_price": 1908000,
         "rank": "L3",
         "status_flag": "Qualified",
         "remarks": "N/A"
@@ -2316,33 +694,325 @@
     "anomaly_winner_not_lowest": false
   },
   {
-    "bid_id": "GEM/2026/B/7532058",
-    "category": "Repair, Maintenance, and Insta...",
-    "buyer": "Department of Panchayati Raj",
-    "quantity": 1,
-    "bid_value": 85000,
-    "award_date": "22-05-2026 7:00 PM",
-    "winner_name": "R T ENTERPRISES",
-    "winner_price": 85000,
+    "bid_id": "GEM/2026/B/7570951",
+    "category": "Organic Bay Leaf,Cardamom Orga...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 173,
+    "bid_value": 0,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7566093",
+    "category": "CIRCUIT BREAKER,CONTROL VALVE,...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 94,
+    "bid_value": 128411.14,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "PITAMBRA TRADERS",
+    "winner_price": 128411.14,
     "num_bidders": 3,
     "vendors": [
       {
-        "vendor_name": "D R ENTERPRISES",
-        "vendor_price": 85300,
+        "vendor_name": "M/S KARTIK SALES CORPORATION",
+        "vendor_price": 145135,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S M. K. ENTERPRISES",
+        "vendor_price": 128421,
         "rank": "L2",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "R T ENTERPRISES",
-        "vendor_price": 85000,
+        "vendor_name": "PITAMBRA TRADERS",
+        "vendor_price": 128411.14,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7589842",
+    "category": "Haldi or Turmeric Powder,Dhani...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 737,
+    "bid_value": 181769,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "ATTITA NX",
+    "winner_price": 181769,
+    "num_bidders": 8,
+    "vendors": [
+      {
+        "vendor_name": "ATTITA NX",
+        "vendor_price": 181769,
         "rank": "L1",
         "status_flag": "Qualified",
         "remarks": "N/A"
       },
       {
-        "vendor_name": "SHREE COMPUTER AND ENTERPRISES",
-        "vendor_price": 85500,
+        "vendor_name": "G J ENTERPRISES",
+        "vendor_price": 185035,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "R J TRADING AND CO",
+        "vendor_price": 202600,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SHRI SAGAS CONNECT PRIVATE LIMITED",
+        "vendor_price": 212018,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "BROTHER ENTERPRISES",
+        "vendor_price": 221400,
+        "rank": "L5",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "INTRAXIS SPICES PRIVATE LIMITED",
+        "vendor_price": 232925,
+        "rank": "L6",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "NOVASTAR ENERGY CONSULTANTS PRIVATE LIMITED",
+        "vendor_price": 285898,
+        "rank": "L7",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "DHARATAL FLORA LLP",
+        "vendor_price": 336083,
+        "rank": "L8",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7585007",
+    "category": "Potable Water Purification Sys...",
+    "buyer": "Panchayat Raj Department Bihar",
+    "quantity": 3,
+    "bid_value": 1114500,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "TECH GANAPATI",
+    "winner_price": 1114500,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "DEO ENTERPRISES",
+        "vendor_price": 1443000,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "KASHYAP ENTERPRISES",
+        "vendor_price": 1170000,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "TECH GANAPATI",
+        "vendor_price": 1114500,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7584946",
+    "category": "Tarpine,Nails 2 inch,Unbranded...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 89,
+    "bid_value": 169642,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "ASHA ENTERPRISES",
+    "winner_price": 169642,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "ASHA ENTERPRISES",
+        "vendor_price": 169642,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "NARESH TRADERS",
+        "vendor_price": 173477,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "R G TRADING COMPANY",
+        "vendor_price": 181540,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "RONAK ENTERPRISES",
+        "vendor_price": 171651,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7584917",
+    "category": "MI Clinical Notes,Unbranded Bl...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 93,
+    "bid_value": 193475,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "NARESH TRADERS",
+    "winner_price": 193475,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "ASHA ENTERPRISES",
+        "vendor_price": 194165,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "NARESH TRADERS",
+        "vendor_price": 193475,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "R G TRADING COMPANY",
+        "vendor_price": 218630,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "RONAK ENTERPRISES",
+        "vendor_price": 196270,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7584887",
+    "category": "White Rexine,SR 445,Unbranded ...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 124,
+    "bid_value": 0,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "N/A",
+    "winner_price": 0,
+    "num_bidders": 0,
+    "vendors": [],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7589841",
+    "category": "Driven Shaft,Nozzle,Assy Fuel ...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 11,
+    "bid_value": 52870,
+    "award_date": "05-06-2026 9:00 PM",
+    "winner_name": "M/S ZAIN ENTERPRISES",
+    "winner_price": 52870,
+    "num_bidders": 3,
+    "vendors": [
+      {
+        "vendor_name": "M/S ZAIN ENTERPRISES",
+        "vendor_price": 52870,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "AA ENTERPRISES",
+        "vendor_price": 63349,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "M/S WASEEM SALES CORPORATION",
+        "vendor_price": 72521,
+        "rank": "L3",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      }
+    ],
+    "anomaly_winner_not_lowest": false
+  },
+  {
+    "bid_id": "GEM/2026/B/7589676",
+    "category": "Steel Case Roll 10 Ltr,Steel T...",
+    "buyer": "Ministry of Defence Department of Military Affairs",
+    "quantity": 66,
+    "bid_value": 186100,
+    "award_date": "05-06-2026 8:00 PM",
+    "winner_name": "SHIVA TRADERS",
+    "winner_price": 186100,
+    "num_bidders": 4,
+    "vendors": [
+      {
+        "vendor_name": "ARMY ENTERPRISES",
+        "vendor_price": 199894,
+        "rank": "L2",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SHIVA TRADERS",
+        "vendor_price": 186100,
+        "rank": "L1",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "SP ENTERPRISES",
+        "vendor_price": 206400,
+        "rank": "L4",
+        "status_flag": "Qualified",
+        "remarks": "N/A"
+      },
+      {
+        "vendor_name": "YASHASHVI ENTERPRISES",
+        "vendor_price": 202100,
         "rank": "L3",
         "status_flag": "Qualified",
         "remarks": "N/A"
